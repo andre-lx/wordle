@@ -140,7 +140,7 @@ const words = {
     "FANTA",
     "MATZÁ",
     "CARNE",
-    "MISTO",
+    "MISTO"
   ],
 };
 export default words;
